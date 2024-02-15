@@ -92,7 +92,7 @@ Your app template should now be running on [localhost:3000](http://localhost:300
 ## 👑 𝐀𝐔𝐓𝐎𝐑𝐄𝐒 👑
 
 <div align="center">
-  <h1 align="center"> <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> PROPIETARIO <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> </h1>
+  <h1 align="center"> <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> SUPPORT BOTS <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> </h1>
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
 
