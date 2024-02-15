@@ -75,7 +75,9 @@ You will need to use the environment variables [defined in `.env.example`](.env.
 > You should not commit your `.env` file or it will expose secrets that will allow others to control access to your various OpenAI and authentication provider accounts.
 
 > 1️⃣. Install Vercel CLI: `npm i -g vercel`
+
 > 2️⃣. Link local instance with Vercel and GitHub accounts (creates `.vercel` directory): `vercel link`
+
 > 3️⃣. Download your environment variables: `vercel env pull`
 
 ```bash
@@ -90,11 +92,14 @@ Your app template should now be running on [localhost:3000](http://localhost:300
 ## 👑 𝐀𝐔𝐓𝐎𝐑𝐄𝐒 👑
 
 <div align="center">
-  <h1 align="center"> <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> DUEÑO DE LA CUENTA <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> </h1>
+  <h1 align="center"> <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> PROPIETARIO <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Food/Cookie.png" alt="Cookie" width="23" height="23" /> </h1>
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
 
-<img src="accesos/imagenes/Comet.png" width="30"> `SupportBots de WhatsApp / Alan Oficial` <img src="accesos/imagenes/Comet.png" width="30">
+## `💬 ¿Dudas? 💬`
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/Contactame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="23" height="23" /> `SupportBots de WhatsApp / Alan Oficial` <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="23" height="23" />
 
 This library is created by [Vercel](https://vercel.com) and [Next.js](https://nextjs.org) team members, with contributions from:
 
